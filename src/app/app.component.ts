@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-agm';
+
+  lat = 40.73061;
+  lng = -73.935242;
 }
