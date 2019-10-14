@@ -9,7 +9,7 @@ import { AppComponent } from './app.component';
   imports: [
     BrowserModule,
     AgmCoreModule.forRoot({
-      apiKey: 'YOUR GOOGLE API KEY HERE'
+      apiKey: 'AIzaSyBNg_O4VHVbCB9tUs4w5wX90yuvWyOpAA4'
     })
   ],
   providers: [],
